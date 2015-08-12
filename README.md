@@ -5,3 +5,4 @@
 3. Corrected the ordered list markdown, also on GitHub
 4. Adding another line to test out Fetch command
 5. Finally adding a line in the local master.
+6. Closing out Issue #1 by adding this line.
